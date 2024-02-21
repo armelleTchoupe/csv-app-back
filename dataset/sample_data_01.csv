@@ -1,0 +1,13 @@
+﻿invoice id;email;country;invoicing date;amount
+101;andrew.le@brewer-bryant.com;FR;2023-07-04;0
+102;kristi.owen@andersen-luna.org;FR;2023-07-08;99
+103;richard.cruz@smith.com;UK;2023-07-19;99
+104;andrew.le@brewer-bryant.com;FR;2023-08-04;199
+105;kristi.owen@andersen-luna.org;FR;2023-08-08;99
+106;richard.cruz@smith.com;UK;2023-08-19;99
+107;andrew.le@brewer-bryant.com;FR;2023-09-04;199
+108;kristi.owen@andersen-luna.org;FR;2023-09-08;99
+109;richard.cruz@smith.com;UK;2023-09-19;99
+110;andrew.le@brewer-bryant.com;FR;2023-10-04;199
+111;kristi.owen@andersen-luna.org;FR;2023-10-08;199
+112;richard.cruz@smith.com;UK;2023-10-19;0
